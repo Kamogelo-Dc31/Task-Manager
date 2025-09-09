@@ -1,0 +1,27 @@
+Total users: 5
+Total tasks: 3
+
+User: admin
+Tasks: 1
+Completed: 100.00%
+Overdue: 0.00%
+
+User: jay
+Tasks: 1
+Completed: 100.00%
+Overdue: 0.00%
+
+User: kaybee
+Tasks: 1
+Completed: 0.00%
+Overdue: 100.00%
+
+User: sam
+Tasks: 0
+Completed: 0.00%
+Overdue: 0.00%
+
+User: tom
+Tasks: 0
+Completed: 0.00%
+Overdue: 0.00%
